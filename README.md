@@ -1,5 +1,5 @@
 # 關於自由樂土伺服器
-<img src="https://media.discordapp.net/attachments/646329439491194881/764767760369582090/unknown.jpg" style="zoom:5%" />
+<img src="https://media.discordapp.net/attachments/646329439491194881/764767760369582090/unknown.jpg" width="100px" />
 
 [自由樂土伺服器]成立於2020年，由[PhantomRDM]所建立的生存伺服器，是想打造原味的Minecraft伺服器，盡可能讓玩家保留最好的體驗不受到種種因素給限制到，沒有豪華的禮包，公平的生存，贊助完全不會影響遊戲平衡，讓伺服器盡可能自由開闊不受拘束影響遊戲的體驗。
 >這個組織是分享關於自由樂土伺服器的架設經驗和自製插件的原碼，希望有些資訊可以幫助到各位
