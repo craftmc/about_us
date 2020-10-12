@@ -11,7 +11,7 @@
 
 上方只列舉已有簽訂合約的「明確合約關係」的人員，並且加入合作開發組織。
 
-<img src="https://www.mc-list.xyz/banner/5-231.png" width="250px" />
+<img src="https://www.mc-list.xyz/banner/5-231.png" width="1000px" />
 
 [PhantomRDM]: <https://github.com/PhantomRDM>
 [MagaDragon]: <https://github.com/MagaDragon>
